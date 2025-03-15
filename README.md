@@ -30,7 +30,7 @@ A modern web platform built to promote and facilitate mediation as an alternativ
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/beyond-courts-app.git
+git clone https://github.com/Darshanjain0724/beyond-courts-app.git
 cd beyond-courts-app
 ```
 
